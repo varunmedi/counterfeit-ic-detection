@@ -2,7 +2,7 @@
 
 ## Overview
 
-Counterfeit Integrated Circuits (ICs) (ICs) pose a significant threat to industries such as electronics manufacturing, telecommunications, and aerospace, potentially resulting in unreliable products, increased costs, and even safety hazards. This project presents a comprehensive deep learning-based approach for detecting counterfeit ICs using Convolutional Neural Networks (CNNs). The solution leverages image-based analysis, data augmentation, and custom model design to achieve high detection performance even on relatively small datasets.
+Counterfeit Integrated Circuits (ICs) pose a significant threat to industries such as electronics manufacturing, telecommunications, and aerospace, potentially resulting in unreliable products, increased costs, and even safety hazards. This project presents a comprehensive deep learning-based approach for detecting counterfeit ICs using Convolutional Neural Networks (CNNs). The solution leverages image-based analysis, data augmentation, and custom model design to achieve high detection performance even on relatively small datasets.
 
 ---
 
